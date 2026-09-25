@@ -2,7 +2,7 @@ package Ejemplo1;
 
 public class EjemploPack {
        public static void main(String[] args) {
-           System.out.println("Hello world");
+
            
           String nombre = "Maria";
           int edad = 28;
